@@ -8,7 +8,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<p align="left"> Programming has been part of my life since I am 14 years old. I always question myself about how everything works and I am not happy until I understand every aspect of everything. This drove me into love for very low level aspects of computers. </p>
+<h5 align="left"> Programming has been part of my life since I am 14 years old. I always question myself about how everything works and I am not happy until I understand every aspect of everything. This drove me into love for very low level aspects of computers. </h5>
 
 
 ## By the way here are some of my statistics 🚀
@@ -17,3 +17,5 @@
 <p align="center" <a href="https://github.com/RubenRubioM?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=RubenRubioM&column=8&margin-w=15&margin-h=15" alt="RubenRubioM"></a> </p> 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<h4> Please check my pinned repositories below 😃 </h4>
