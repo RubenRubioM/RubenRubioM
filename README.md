@@ -8,7 +8,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<h5 align="left"> Programming has been part of my life since I am 14 years old. I always question myself about how everything works and I am not happy until I understand every aspect of everything. This drove me into love for very low level aspects of computers. </h5>
+<h4 align="left"> Programming has been part of my life since I am 14 years old. I always question myself about how everything works and I am not happy until I understand every aspect of everything. This drove me into love for very low level aspects of computers. </h4>
 
 
 ## 🚀 By the way here are some of my statistics 
