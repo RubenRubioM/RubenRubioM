@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruben Rubio</h1>
-<h3 align="center">Software Engineer | C++ specialist | Rust enthusiastic |</h3>
+<h3 align="center">Software Engineer | C++ specialist | Rust enthusiast |</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RubenRubioM" alt="rubenrubiom" /> <img src="https://img.shields.io/github/followers/RubenRubioM.svg?style=social&label=Followers"> </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ruben-rubio-martinez/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
