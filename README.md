@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruben Rubio</h1>
-<h3 align="center">Software Engineer | C++ specialist | Rust enthusiast |</h3>
+<h3 align="center">Software Engineer | C++ specialist | Rust enthusiast </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RubenRubioM" alt="rubenrubiom" /> <img src="https://img.shields.io/github/followers/RubenRubioM.svg?style=social&label=Followers"> </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ruben-rubio-martinez/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
@@ -8,7 +8,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<h4 align="left"> Programming has been part of my life since I am 14 years old. I always question myself about how everything works and I am not happy until I understand every aspect of everything. This drove me into love for very low level aspects of computers. </h4>
+<h4 align="left"> Programming has been part of my life since I was 14 years old. I always question myself about how everything works and I am not happy until I understand every aspect of everything. This drove me into love for very low level aspects of computers. </h4>
 
 
 ## 🚀 By the way here are some of my statistics 
